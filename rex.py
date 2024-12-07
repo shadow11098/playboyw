@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 from flashh import TOKEN   # Import the TOKEN and ADMIN_ID variables
 from datetime import datetime  # Import datetime for expiry checking
 
-ADMIN_ID = 6073143283
+ADMIN_ID = 1808161060
 
 # Set up logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
